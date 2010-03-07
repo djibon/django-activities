@@ -1,0 +1,10 @@
+*.pyc
+.svn
+*~
+*.swp
+.project
+.pydevproject
+migrations
+.ropeproject
+local_settings.py
+uploads
